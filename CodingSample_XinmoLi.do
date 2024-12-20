@@ -1,7 +1,7 @@
 * Coding Sample
 * Xinmo Li
 * ====================================================
-* Note: This coding sample aim to conduct DID analysis on the effect of merit based scholarship program on the enrollment in 2-year community college.
+* Note: This coding sample aim to conduct DID analysis on the effect of scholarship program on the enrollment in 2-year community college.
 
 clear all
 cap log close 
